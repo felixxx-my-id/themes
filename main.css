@@ -4161,7 +4161,7 @@ code {
     --dnd-color: #982929;
     --streaming-color: #593695;
     --offline-color: #808080;
-    --background-shading-percent: 0%;
+    --background-shading-percent: 70%;
     --background-image: url(https://raw.githubusercontent.com/felixxx-my-id/themes/refs/heads/main/gojo-background.jpg);
     --background-position: center;
     --background-size: cover;
